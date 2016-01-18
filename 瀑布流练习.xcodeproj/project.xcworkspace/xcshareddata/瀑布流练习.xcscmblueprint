@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "be73ea83-1ef3-4b60-8caa-c8a69a106ff0++9413" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "be73ea83-1ef3-4b60-8caa-c8a69a106ff0++9413" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3139412E-FEE7-4DB9-AC16-3748DFB7A7AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "be73ea83-1ef3-4b60-8caa-c8a69a106ff0++9413" : "%E7%80%91%E5%B8%83%E6%B5%81%E7%BB%83%E4%B9%A0\/%E7%80%91%E5%B8%83%E6%B5%81%E7%BB%83%E4%B9%A0\/SDWebImage\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "瀑布流练习",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "瀑布流练习.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/finalversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "be73ea83-1ef3-4b60-8caa-c8a69a106ff0++9413"
+    }
+  ]
+}
